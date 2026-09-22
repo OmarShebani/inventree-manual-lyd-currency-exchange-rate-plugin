@@ -1,1 +1,1 @@
-# manual-lyd-currency-exchange-rate-inventree-plugin
+# inventree-manual-lyd-currency-exchange-rate-plugin
