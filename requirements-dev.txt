@@ -1,0 +1,9 @@
+Django>=5.2,<5.3
+djangorestframework>=3.16,<4
+django-money==3.6.1
+certifi
+pytest>=8,<10
+ruff
+build
+setuptools>=68
+wheel

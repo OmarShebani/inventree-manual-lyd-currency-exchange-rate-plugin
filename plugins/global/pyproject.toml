@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inventree-lyd-global-exchange"
+version = "0.1.0"
+description = "LYD Exchange Rates for InvenTree — Global Only"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name = "Omar Shebani"}]
+classifiers = ["Framework :: InvenTree", "Programming Language :: Python :: 3"]
+
+[project.urls]
+Repository = "https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin"
+
+[project.entry-points."inventree_plugins"]
+GlobalLYDExchange = "inventree_lyd_global.plugin:GlobalLYDExchange"
+
+[tool.setuptools.packages.find]
+include = ["inventree_lyd_global*"]
+
+[tool.setuptools.package-data]
+inventree_lyd_global = ["static/*.js"]
