@@ -83,8 +83,8 @@ Use a tested commit SHA in place of `COMMIT_SHA` and the correct subdirectory.
 Add either or both lines to `plugins.txt`:
 
 ```text
-inventree-lyd-individual-exchange @ git+https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin.git@COMMIT_SHA#subdirectory=plugins/individual
-inventree-lyd-global-exchange @ git+https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin.git@COMMIT_SHA#subdirectory=plugins/global
+inventree-lyd-individual-exchange @ git+https://github.com/blank404-sh/inventree-manual-lyd-currency-exchange-rate-plugin.git@COMMIT_SHA#subdirectory=plugins/individual
+inventree-lyd-global-exchange @ git+https://github.com/blank404-sh/inventree-manual-lyd-currency-exchange-rate-plugin.git@COMMIT_SHA#subdirectory=plugins/global
 ```
 
 Then follow the same installation, restart, and activation steps. A private
