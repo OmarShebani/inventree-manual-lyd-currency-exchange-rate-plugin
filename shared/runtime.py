@@ -32,7 +32,7 @@ class LYDRuntime:
     MIN_VERSION = "1.5.2"
     MAX_VERSION = "1.5.99"
     VERSION = "0.1.0"
-    WEBSITE = "https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin"
+    WEBSITE = "https://github.com/blank404-sh/inventree-manual-lyd-currency-exchange-rate-plugin"
     AUTHOR = "Omar Shebani"
 
     def _record(self, lock=False):

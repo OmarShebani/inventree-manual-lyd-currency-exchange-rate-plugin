@@ -12,7 +12,7 @@ authors = [{name = "Omar Shebani"}]
 classifiers = ["Framework :: InvenTree", "Programming Language :: Python :: 3"]
 
 [project.urls]
-Repository = "https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin"
+Repository = "https://github.com/blank404-sh/inventree-manual-lyd-currency-exchange-rate-plugin"
 
 [project.entry-points."inventree_plugins"]
 IndividualLYDExchange = "inventree_lyd_individual.plugin:IndividualLYDExchange"

@@ -11,4 +11,4 @@ Only one currency provider can be selected at a time. The original provider must
 remain active for online rates. Settings and snapshots are stored in this plugin's
 own database metadata. No database migrations or core patches are required.
 
-See the repository's [installation guide](https://github.com/OmarShebani/inventree-manual-lyd-currency-exchange-rate-plugin/blob/main/docs/INSTALL.md).
+See the repository's [installation guide](https://github.com/blank404-sh/inventree-manual-lyd-currency-exchange-rate-plugin/blob/main/docs/INSTALL.md).
